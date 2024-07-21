@@ -1,0 +1,1 @@
+If trying to run the notebook, kindly delete the '.cache' file attached as the token being used by the Spotify API must have expired.
